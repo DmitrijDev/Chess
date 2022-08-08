@@ -155,7 +155,7 @@ namespace Chess.LogicPart
 
                 Status = GameStatus.Draw;
                 return;
-            }            
+            }
 
             Status = GameStatus.GameCanContinue;
         }
